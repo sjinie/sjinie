@@ -1,16 +1,30 @@
-## Hi there 👋
+# Seokjin Hong
 
-<!--
-**sjinie/sjinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My academic background is in Data Science at Myongji University. I am currently in the SSAFY Data Track, strengthening software engineering fundamentals with Python, SQL, backend APIs, and data processing.
 
-Here are some ideas to get you started:
+My focus is on engineering-oriented Data/AI roles, with a long-term interest in data pipelines, backend systems, ML/LLM applications, and MLOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python for algorithm problem solving and data processing
+- SQL, database design, and data engineering fundamentals
+- Django, Django REST Framework, and REST API development
+- Machine learning, deep learning, and LLM application fundamentals
+- Git/GitHub collaboration
+
+## Tech
+
+- **Languages:** Python, SQL
+- **Backend:** Django, Django REST Framework, REST APIs
+- **Data / ML:** pandas, NumPy, scikit-learn, time-series analysis
+- **Familiar with:** Apache Spark, Apache Kafka
+- **Currently learning:** LangChain, RAG, MLflow, MLOps
+
+## Education & Training
+
+- Data Science, Myongji University
+- SSAFY Data Track, Jul 2026 - Present
+
+## Activities
+
+- Organizing an SSAFY algorithm study by maintaining a Notion template, facilitating meetings, and coordinating SWEA problem-solving discussions.
