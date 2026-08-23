@@ -1,6 +1,6 @@
 # Seokjin Hong
 
-My academic background is in Data Science at Myongji University. I am currently in the SSAFY (Samsung Software AI academy For Youth) Data Track, strengthening software engineering fundamentals with Python, SQL, backend APIs, and data processing.
+I hold a Bachelor of Engineering in Data Science from Myongji University. I am currently in the SSAFY (Samsung Software AI academy For Youth) Data Track, strengthening software engineering fundamentals with Python, SQL, backend APIs, and data processing.
 
 My focus is on engineering-oriented Data/AI roles, with a long-term interest in data pipelines, backend systems, ML/LLM applications, and MLOps.
 
@@ -22,7 +22,7 @@ My focus is on engineering-oriented Data/AI roles, with a long-term interest in 
 
 ## Education & Training
 
-- Data Science, Myongji University
+- Bachelor of Engineering, Data Science, Myongji University
 - SSAFY Data Track, Jul 2026 - Present
 
 ## Activities
