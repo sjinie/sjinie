@@ -1,30 +1,27 @@
 # Seokjin Hong
 
-I hold a Bachelor of Engineering in Data Science from Myongji University. I am currently in the SSAFY (Samsung Software AI academy For Youth) Data Track, strengthening software engineering fundamentals with Python, SQL, backend APIs, and data processing.
+Studying Data Science  
+SSAFY 16th · Data Track
 
-My focus is on engineering-oriented Data/AI roles, with a long-term interest in data pipelines, backend systems, ML/LLM applications, and MLOps.
+## Tech Stack
 
-## Current Focus
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-- Python for algorithm problem solving and data processing
-- SQL, database design, and data engineering fundamentals
-- Django, Django REST Framework, and REST API development
-- Machine learning, deep learning, and LLM application fundamentals
-- Git/GitHub collaboration
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-## Tech
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-- **Languages:** Python, SQL
-- **Backend:** Django, Django REST Framework, REST APIs
-- **Data / ML:** pandas, NumPy, scikit-learn, time-series analysis
-- **Familiar with:** Apache Spark, Apache Kafka
-- **Currently learning:** LangChain, RAG, MLflow, MLOps
+## Projects
 
-## Education & Training
-
-- Bachelor of Engineering, Data Science, Myongji University
-- SSAFY Data Track, Jul 2026 - Present
-
-## Activities
-
-- Organizing an SSAFY algorithm study by maintaining a Notion template, facilitating meetings, and coordinating SWEA problem-solving discussions.
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Coffee Price Prediction](https://github.com/sjinie/Coffee_Price_Prediction) | Coffee futures forecasting & end-to-end data pipeline | Python, PostgreSQL, FastAPI, Vue, Docker |
+| [Weather RAG Chatbot](https://github.com/sjinie/ai-rag-chat-core-pjt) | Weather explanations grounded in forecasts, observations & documents | Python, LangGraph, ChromaDB, Streamlit |
+| [CHZZK Anonymous Chat](https://github.com/sjinie/chzzk-anonymous-chat) | Chrome extension for anonymous chat viewing | JavaScript, Chrome Extension API |
