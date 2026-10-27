@@ -23,5 +23,3 @@ SSAFY 16th · Data Track
 | Project | Description | Tech |
 | --- | --- | --- |
 | [Coffee Price Prediction](https://github.com/sjinie/Coffee_Price_Prediction) | Coffee futures forecasting & end-to-end data pipeline | Python, PostgreSQL, FastAPI, Vue, Docker |
-| [Weather RAG Chatbot](https://github.com/sjinie/ai-rag-chat-core-pjt) | Weather explanations grounded in forecasts, observations & documents | Python, LangGraph, ChromaDB, Streamlit |
-| [CHZZK Anonymous Chat](https://github.com/sjinie/chzzk-anonymous-chat) | Chrome extension for anonymous chat viewing | JavaScript, Chrome Extension API |
